@@ -1,0 +1,28 @@
+/*
+*============================
+*Author: Richard Krasso
+*Edited by: Gabriel Sanchez
+*Date: 3/28/2020
+*=============================
+*/
+
+.mat-card {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+.mat-card-subtitle {
+  text-align: center;
+}
+.mat-card-content{
+  font-weight: lighter;
+  font-size: 100%;
+}
+.mat-card-title {
+  color: blue;
+  text-align: center;
+  font-weight: lighter;
+}
+.mat-list-item {
+  color: black
+}
